@@ -1,0 +1,15 @@
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\bin\Debug\netcoreapp2.0\Leaf.Web.Framework.deps.json
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\bin\Debug\netcoreapp2.0\Leaf.Web.Framework.dll
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\bin\Debug\netcoreapp2.0\Leaf.Web.Framework.pdb
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\bin\Debug\netcoreapp2.0\Leaf.Core.dll
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\bin\Debug\netcoreapp2.0\Leaf.Data.dll
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\bin\Debug\netcoreapp2.0\Leaf.Services.dll
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\bin\Debug\netcoreapp2.0\Leaf.Core.pdb
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\bin\Debug\netcoreapp2.0\Leaf.Data.pdb
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\bin\Debug\netcoreapp2.0\Leaf.Services.pdb
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\obj\Debug\netcoreapp2.0\Leaf.Web.Framework.csprojResolveAssemblyReference.cache
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\obj\Debug\netcoreapp2.0\Leaf.Web.Framework.csproj.CoreCompileInputs.cache
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\obj\Debug\netcoreapp2.0\Leaf.Web.Framework.AssemblyInfoInputs.cache
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\obj\Debug\netcoreapp2.0\Leaf.Web.Framework.AssemblyInfo.cs
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\obj\Debug\netcoreapp2.0\Leaf.Web.Framework.dll
+D:\study\CoreTask\Leaf.Soft\Leaf.Web.Framework\obj\Debug\netcoreapp2.0\Leaf.Web.Framework.pdb

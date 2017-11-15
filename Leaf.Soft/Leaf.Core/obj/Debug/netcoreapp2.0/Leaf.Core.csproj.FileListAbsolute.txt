@@ -1,0 +1,11 @@
+D:\study\CoreTask\Leaf.Soft\Leaf.Core\bin\Debug\netcoreapp2.0\Leaf.Core.deps.json
+D:\study\CoreTask\Leaf.Soft\Leaf.Core\bin\Debug\netcoreapp2.0\Leaf.Core.dll
+D:\study\CoreTask\Leaf.Soft\Leaf.Core\bin\Debug\netcoreapp2.0\Leaf.Core.pdb
+D:\study\CoreTask\Leaf.Soft\Leaf.Core\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\study\CoreTask\Leaf.Soft\Leaf.Core\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.xml
+D:\study\CoreTask\Leaf.Soft\Leaf.Core\obj\Debug\netcoreapp2.0\Leaf.Core.csproj.CoreCompileInputs.cache
+D:\study\CoreTask\Leaf.Soft\Leaf.Core\obj\Debug\netcoreapp2.0\Leaf.Core.AssemblyInfoInputs.cache
+D:\study\CoreTask\Leaf.Soft\Leaf.Core\obj\Debug\netcoreapp2.0\Leaf.Core.AssemblyInfo.cs
+D:\study\CoreTask\Leaf.Soft\Leaf.Core\obj\Debug\netcoreapp2.0\Leaf.Core.dll
+D:\study\CoreTask\Leaf.Soft\Leaf.Core\obj\Debug\netcoreapp2.0\Leaf.Core.pdb
+D:\study\CoreTask\Leaf.Soft\Leaf.Core\obj\Debug\netcoreapp2.0\Leaf.Core.csprojResolveAssemblyReference.cache

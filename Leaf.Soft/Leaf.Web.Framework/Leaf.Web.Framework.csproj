@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Leaf.Core\Leaf.Core.csproj" />
+    <ProjectReference Include="..\Leaf.Data\Leaf.Data.csproj" />
+    <ProjectReference Include="..\Leaf.Services\Leaf.Services.csproj" />    
+  </ItemGroup>
+
+</Project>

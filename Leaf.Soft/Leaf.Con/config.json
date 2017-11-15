@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    //"default": "Data Source=DESKTOP-2KL8FLC\\GENGZHW;Initial Catalog=webCoreddb;Persist Security Info=True;User ID=sa;Password=123456;",
+    //"default": "Data Source=192.168.0.214;Initial Catalog=coredb;Persist Security Info=True;User ID=sa;Password=Dzcye@2016;"
+    "default": "Data Source=103.235.230.8;Initial Catalog=RhDataCenter;User ID=NopWeb;Password=NopWeb?2017;MultipleActiveResultSets=true;Persist Security Info=True;"
+  }
+}

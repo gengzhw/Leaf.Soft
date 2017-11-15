@@ -1,0 +1,11 @@
+D:\study\CoreTask\Leaf.Soft\Leaf.Data\bin\Debug\netcoreapp2.0\Leaf.Data.deps.json
+D:\study\CoreTask\Leaf.Soft\Leaf.Data\bin\Debug\netcoreapp2.0\Leaf.Data.dll
+D:\study\CoreTask\Leaf.Soft\Leaf.Data\bin\Debug\netcoreapp2.0\Leaf.Data.pdb
+D:\study\CoreTask\Leaf.Soft\Leaf.Data\bin\Debug\netcoreapp2.0\Leaf.Core.dll
+D:\study\CoreTask\Leaf.Soft\Leaf.Data\bin\Debug\netcoreapp2.0\Leaf.Core.pdb
+D:\study\CoreTask\Leaf.Soft\Leaf.Data\obj\Debug\netcoreapp2.0\Leaf.Data.csprojResolveAssemblyReference.cache
+D:\study\CoreTask\Leaf.Soft\Leaf.Data\obj\Debug\netcoreapp2.0\Leaf.Data.csproj.CoreCompileInputs.cache
+D:\study\CoreTask\Leaf.Soft\Leaf.Data\obj\Debug\netcoreapp2.0\Leaf.Data.AssemblyInfoInputs.cache
+D:\study\CoreTask\Leaf.Soft\Leaf.Data\obj\Debug\netcoreapp2.0\Leaf.Data.AssemblyInfo.cs
+D:\study\CoreTask\Leaf.Soft\Leaf.Data\obj\Debug\netcoreapp2.0\Leaf.Data.dll
+D:\study\CoreTask\Leaf.Soft\Leaf.Data\obj\Debug\netcoreapp2.0\Leaf.Data.pdb
